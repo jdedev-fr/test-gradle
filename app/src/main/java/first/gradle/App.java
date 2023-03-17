@@ -5,7 +5,7 @@ package first.gradle;
 
 public class App {
     public String getGreeting() {
-        return "Hello Gradle!";
+        return "Hello Gradle/Jenkins!";
     }
 
     public static void main(String[] args) {
